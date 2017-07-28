@@ -1,4 +1,5 @@
 /*lightoj 1009
+level:easy
 Back to the underworld
 Here if one node is vampire then all adjacent of that node is lyckans and vice versa as we have to find find the maximum 
 possible number of Vampires or Lykans,
