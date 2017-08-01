@@ -1,6 +1,6 @@
 /*lightoj 1012
 guilty prince
-here we have to find the number of cell the prince can visitjust use a 2dBFS to solve this proble*/
+here we have to find the number of cell the prince can visit just use a 2dBFS to solve this proble*/
 //level:easy
 
 #include <bits/stdc++.h>
