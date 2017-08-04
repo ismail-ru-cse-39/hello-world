@@ -1,6 +1,6 @@
 /*lightoj-1107
 level:supper easy
-just draw the rectangle in a graph you will find the answer
+just draw the rectangle in a graph and obsereve you will find the answer
 */
 
 #include <bits/stdc++.h>
